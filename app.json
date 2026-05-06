@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "curriculo-app",
+    "slug": "curriculo-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "curriculo-app",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "plugins": ["expo-router"]
+  }
+}
