@@ -2,6 +2,7 @@
   "expo": {
     "name": "curriculo-app",
     "slug": "curriculo-app",
+    "owner": "alexisprado",
     "version": "1.0.0",
     "orientation": "portrait",
     "scheme": "curriculo-app",
